@@ -1,5 +1,5 @@
 requests==2.23.0
-Flask==1.1.1
+Flask==2.3.2
 jieba==0.42.1
 pymysql==0.9.3
 selenium==3.141.0
